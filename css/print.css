@@ -1,0 +1,95 @@
+
+.registrar {
+    border-top: 1px solid;
+    float: right;
+    margin-top: 145px;
+    width: 147px;
+	font-family:arial !important;
+}
+.logo_Sti {
+    background: url("../STI/stilogo.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    width: 289px;
+    height: 145px;
+	border-bottom:1px solid;
+	margin-bottom:10px;
+}
+.navbar{
+display:none;
+}
+.add_grade{
+display:none;
+}
+.act{
+display:none;
+}
+.logout{
+display:none;
+}
+#add{
+display:none;
+}
+table{
+font-family:arial !important;
+}
+.dataTables_filter{
+display:none;
+}
+#example th{
+ border-right:1px solid;
+font-family:arial !important;
+}
+#example th:first-child{
+ border-left:1px solid;
+font-family:arial !important;
+}
+#example td{
+border-right:1px solid;
+text-align:center;
+}
+#example td:first-child{
+border-left:1px solid;
+text-align:center;
+}
+
+.dataTables_paginate {
+display:none;
+}
+#example_length{
+display:none;
+}
+.test123{
+display:none;
+}
+.name span{
+display:block;
+font-family:arial !important;
+}
+.name span strong{
+margin-left:10px;
+}
+span{
+text-transform:uppercase;
+}
+.dataTables_info{
+display:none;
+}
+tfoot{
+border-right:none;
+}
+#sort{
+border:0px !important;
+}
+.span3{
+width:168px;
+float:left;
+font-size:8px !important;
+font-family:arial !important;
+}
+#print_right{
+float:right;
+margin-top:-40px;
+}
+h4{
+font-size:15px;
+font-family:arial !important;
+}
